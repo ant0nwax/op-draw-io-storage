@@ -1,6 +1,6 @@
 ## Ticket creation by email
 
-WARNING THIS FLOWCHART IS ALREADY OUTDATED, A NEW VERSION EXISTS IN MY NEXTCLOUD INTEGRATION 
+WARNING: NEVER DRINK 
 ![ticket-creation-by-email](./ticket-creation-by-email.drawio.png)
 
 
